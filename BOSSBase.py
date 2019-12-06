@@ -33,6 +33,6 @@ global MONGO_DB
 global MONGO_TABLE
 global needSaveMongo#是否保存数据库
 needSaveMongo=False
-MONGO_DB='JAVA'
-MONGO_TABLE = 'HaiDian'
+MONGO_DB='test1'
+MONGO_TABLE = 'test2'
 #######################################################################################
